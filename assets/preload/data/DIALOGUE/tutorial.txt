@@ -1,0 +1,15 @@
+:image:tutorial0001,-120,-40,1408:no
+:lem:lemon happy port :...
+:endimage:putanythinghere:
+:image:tutorial0002,-120,-40,1408:no
+:lem:lemon happy port : Oh- Hey there, pretty boy!
+:lem:lemon normal port: I didn't expect to see you here of all places...
+:lem:lemon happy port : But I'm glad to see you again.
+:sen:senpai happy port : Hehe, of course.
+:lem:lemon normal port: Since we're here together now, what do you want to do
+:sen:senpai soft port : Well... I've never really done this before,
+:sen:senpai happy port : but I've always admired your singing and I'd love to practice my notes with you a little.
+:sen:senpai cat port : Perhaps you could teach me a thing or two?
+:lem:lemon happy port : Ah, no worries! Just follow my lead, okay? You got this! 
+:sen:senpai happy port : gotcha, here goes nothing!
+:endimage:putanythinghere:

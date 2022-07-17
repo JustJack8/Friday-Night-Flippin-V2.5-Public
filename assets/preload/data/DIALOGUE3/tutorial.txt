@@ -1,0 +1,24 @@
+:image:tutorial0001,-120,-40,1408:no
+:alpha:al default port: ello?
+:endimage:putanythinghere:
+:image:tutorial0002,-120,-40,1408:no
+:lem:lemon questioning port: hm? 
+:alpha:al confuzzed port: ew
+:alpha:al default port: Excuse me, I'd hate to be a bother, but have you seen a fair lady around these parts? 
+:alpha:al guilt port: Sen did say I should meet with her here, but I can't seem to find her.
+:lem:lemon questioning port: Sen? You know a Sen?
+:alpha:al baby port: Why yes, that is the name of my brother.
+:alpha:al default port: Short, tacky dye job, never ceases to praise his partner, usually wears a coat over his sweater... 
+:alpha:al default port: I take it you know him as well?
+:lem:lemon blushy port: Aheheh I think I do...
+:alpha:al baby port: Ah lovely! Now, dear freak of nature, would you ever be so kind as to tell me where his girlfriend may be?
+:lem:lemon bruh port: I am his girlfriend.
+:alpha:al shock port:  -
+:alpha:al what port: REALLY?
+:lem:lemon mad port : ugh, what do you want?
+:alpha:al derp port: Ah well since you asked, your dearest has fallen terribly ill, and has begged me to keep you company to make up for his absence.
+:alpha:al default port: I recall him saying something about wanting to sing?
+:lem:lemon bruh port: hm. You're a dick.
+:lem:lemon happy port : But if it's for Sen, why not, hehe.
+:endimage:putanythinghere:
+

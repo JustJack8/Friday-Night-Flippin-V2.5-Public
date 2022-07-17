@@ -1,0 +1,18 @@
+:image:week20001,-120,-40,1408:no
+:mearie:mearie default port : Hey- are you up
+:dearie:dearie tired port: Mmhn?
+:mearie:mearie mopey port: I'm bored...
+:dearie:dearie tired port: Mear, it's 3 am.
+:mearie:mearie mopey port: So? Playing is better than sleeping!
+:mearie:mearie default port : Back me up here guys!
+:dearie:dearie tired port: guys?
+:endimage:putanythinghere:
+:image:week20002,-120,-40,1408:no
+:dearie:dearie default port : WHAT THE-
+:lem:lemon normal port: this haunted house sucks.
+:dearie:dearie default port : GET THE FUCK OUT MY HOUSE!!!
+:alpha:al yass port: Apologies, but we were promised entertainment 
+:alpha:al yass port: and we will not leave until we get such.
+:dearie:dearie malicous port: ohoho you lot want entertainment, huh? 
+:dearie:dearie malicous port: I'LL GIVE YA ENTERTAINMENT!
+:endimage:putanythinghere:

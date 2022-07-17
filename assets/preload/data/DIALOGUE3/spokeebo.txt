@@ -1,0 +1,27 @@
+:image:week10001,-120,-40,1408:no
+:lem:lemon happy port : Oh! You're actually pretty good at this!
+:alpha:al yass port: I'm good at everything, my citrus confidante
+:endimage:putanythinghere:
+:image:week10002,-120,-40,1408:no
+:pump:pump normal port: Is someone there?
+:lem:lemon regret port : Ah- shit.
+:alpha:al guilt port: Who could that be?
+:lem:lemon regret port :I think that's my brother.
+:lem:lemon shrug port: Uhh, just act casual- if he asks you anything, just... I dunno, say something stupid, ok?
+:alpha:al baby port: You got it!
+:endimage:putanythinghere:
+:image:week10003,-120,-40,1408:no
+:pump:pump shocked port: Lem! Jesus-
+:lem:lemon normal port: Heyyy Pump...
+:pump:pump mad port : I've been lookin for ya everywhere!
+:pump:pump sigh port :I thought somethin happened to ya for a sec-
+:pump:pump normal port: ... Who are you supposed to be?
+:alpha:al baby port: Something stupid.
+:pump:pump serious port: ?
+:lem:lemon regret port : AHAHA dont listen to him-
+:lem:lemon shrug port: He just wandered here 'n wanted to sing that's all
+:pump:pump serious port: Sing?
+:alpha:al default port: Care to join us?
+:pump:pump nervous port: Well It does sound fun...
+:pump:pump content port : Alright... I'm a lil rusty so let's do somethin easy.
+:endimage:putanythinghere:

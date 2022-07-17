@@ -1,0 +1,2 @@
+0,100,770,30,240,500,40,350,330,100
+[EnemyX],[EnemyY],[BfX],[BfY],[TextX],[TextY],[TextBoxX],[TextBoxY],[MiddlePersonX],[MiddlePersonY]

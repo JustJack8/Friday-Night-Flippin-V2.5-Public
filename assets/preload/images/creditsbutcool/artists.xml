@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="artists.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="farrists0000" x="0" y="0" width="191" height="426" frameX="0" frameY="-143" frameWidth="1271" frameHeight="613"/>
+	<SubTexture name="farrists10001" x="221" y="0" width="239" height="470" frameX="-324" frameY="-143" frameWidth="1271" frameHeight="613"/>
+	<SubTexture name="farrists20002" x="490" y="0" width="558" height="597" frameX="-713" frameY="0" frameWidth="1271" frameHeight="613"/>
+	<SubTexture name="farrists30003" x="1078" y="0" width="225" height="364" frameX="-691" frameY="-205" frameWidth="1271" frameHeight="613"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+:image:week10001,-120,-40,1408:no
+:lem:lemon happy port : Hey you aren't half bad!
+:beta:beta chill port: mhm yeah.
+:beta:beta happy port: Now that THAT'S over...
+:pump:pump normal port: Lem? What's going on over here?
+:beta:beta fake smile port: {Kill me now.}
+:lem:lemon happy port : Oh hey Pump- Not much, actually.
+:lem:lemon shrug port: Was just having some fun singing with this... random dummy!
+:beta:beta fake smile port: .
+:endimage:putanythinghere:
+:image:week10002,-120,-40,1408:no
+:pump:pump serious port: Just some singing is it, huh...?
+:beta:beta annoyed port: {He's gonna stomp on me isn't he, God I knew it would end like this...}
+:endimage:putanythinghere:
+:image:week10003,-120,-40,1408:no
+:pump:pump scary port: Not trying to make any advances, huh lil dude?
+:beta:beta pissed port: AH-EW WHAT THE FUCK, NO??? ABSOLUTELY NOT. {did he just CROUCH?}
+:beta:beta bruh port: And I'm not a "lil dude". The names BETA.
+:beta:beta bruh port: and I'd really appreciate it if you didn't-
+:pump:pump content port : Odd name.
+:beta:beta stare port: .
+:pump:pump nervous port: Thooooughhh considering mine's Pump there isn't much room to talk, heh-
+:pump:pump sad port:That was kinda rude on my part there sorry- 
+:pump:pump content port : but this whole singing thing sounds fun. Mind if I join?
+:beta:beta bruh port: Yes, actually I do-
+:lem:lemon happy port : Go ahead bro! Beta here is pretty good at it!
+:beta:beta fake smile port: {I did NOT sign up for this shit.}
+:endimage:putanythinghere:

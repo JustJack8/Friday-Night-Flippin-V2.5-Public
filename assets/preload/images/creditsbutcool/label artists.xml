@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="label artists.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="label artists0000" x="0" y="0" width="1177" height="430" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0001" x="0" y="0" width="1177" height="430" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0002" x="1207" y="0" width="1193" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0003" x="1207" y="0" width="1193" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0004" x="2430" y="0" width="1198" height="430" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0005" x="2430" y="0" width="1198" height="430" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0006" x="0" y="460" width="1200" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0007" x="0" y="460" width="1200" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0008" x="1230" y="460" width="1200" height="430"/>
+	<SubTexture name="label artists0009" x="1230" y="460" width="1200" height="430"/>
+	<SubTexture name="label artists0010" x="0" y="460" width="1200" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0011" x="0" y="460" width="1200" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0012" x="1230" y="460" width="1200" height="430"/>
+	<SubTexture name="label artists0013" x="1230" y="460" width="1200" height="430"/>
+	<SubTexture name="label artists0014" x="0" y="460" width="1200" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0015" x="0" y="460" width="1200" height="429" frameX="0" frameY="0" frameWidth="1200" frameHeight="430"/>
+	<SubTexture name="label artists0016" x="1230" y="460" width="1200" height="430"/>
+	<SubTexture name="label artists0017" x="1230" y="460" width="1200" height="430"/>
+</TextureAtlas>

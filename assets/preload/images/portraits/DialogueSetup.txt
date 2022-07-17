@@ -1,0 +1,4 @@
+BoxX:50
+BoxY:50
+TextX:220
+TextY:500

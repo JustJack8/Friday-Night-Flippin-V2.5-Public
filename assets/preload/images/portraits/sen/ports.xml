@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sen_ports.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="senpai cat port0000" x="0" y="0" width="288" height="290"/>
+	<SubTexture name="senpai cat port0001" x="0" y="0" width="288" height="290"/>
+	<SubTexture name="senpai cat port0002" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0003" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0004" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0005" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0006" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0007" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0008" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0009" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0010" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0011" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0012" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0013" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0014" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0015" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0016" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0017" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0018" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai cat port0019" x="288" y="0" width="288" height="288" frameX="0" frameY="-2" frameWidth="288" frameHeight="290"/>
+	<SubTexture name="senpai happy port 0000" x="576" y="0" width="288" height="288" frameX="-2" frameY="0" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0001" x="576" y="0" width="288" height="288" frameX="-2" frameY="0" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0002" x="864" y="0" width="280" height="271" frameX="-1" frameY="-17" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0003" x="864" y="0" width="280" height="271" frameX="-1" frameY="-17" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0004" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0005" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0006" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0007" x="576" y="0" width="288" height="288" frameX="-2" frameY="0" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0008" x="576" y="0" width="288" height="288" frameX="-2" frameY="0" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0009" x="864" y="0" width="280" height="271" frameX="-1" frameY="-17" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0010" x="864" y="0" width="280" height="271" frameX="-1" frameY="-17" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0011" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0012" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0013" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0014" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0015" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0016" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0017" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0018" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai happy port 0019" x="1144" y="0" width="281" height="275" frameX="0" frameY="-13" frameWidth="290" frameHeight="288"/>
+	<SubTexture name="senpai mad port 0000" x="1425" y="0" width="285" height="284"/>
+	<SubTexture name="senpai mad port 0001" x="1425" y="0" width="285" height="284"/>
+	<SubTexture name="senpai mad port 0002" x="1710" y="0" width="279" height="270" frameX="0" frameY="-14" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0003" x="1710" y="0" width="279" height="270" frameX="0" frameY="-14" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0004" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0005" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0006" x="1425" y="0" width="285" height="284"/>
+	<SubTexture name="senpai mad port 0007" x="1425" y="0" width="285" height="284"/>
+	<SubTexture name="senpai mad port 0008" x="1710" y="0" width="279" height="270" frameX="0" frameY="-14" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0009" x="1710" y="0" width="279" height="270" frameX="0" frameY="-14" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0010" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0011" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0012" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0013" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0014" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0015" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0016" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0017" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai mad port 0018" x="0" y="290" width="280" height="275" frameX="0" frameY="-9" frameWidth="285" frameHeight="284"/>
+	<SubTexture name="senpai normal port0000" x="280" y="290" width="286" height="282" frameX="-2" frameY="0" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0001" x="280" y="290" width="286" height="282" frameX="-2" frameY="0" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0002" x="566" y="290" width="278" height="275" frameX="-1" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0003" x="566" y="290" width="278" height="275" frameX="-1" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0004" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0005" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0006" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0007" x="280" y="290" width="286" height="282" frameX="-2" frameY="0" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0008" x="280" y="290" width="286" height="282" frameX="-2" frameY="0" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0009" x="566" y="290" width="278" height="275" frameX="-1" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0010" x="566" y="290" width="278" height="275" frameX="-1" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0011" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0012" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0013" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0014" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0015" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0016" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0017" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0018" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai normal port0019" x="844" y="290" width="280" height="275" frameX="0" frameY="-7" frameWidth="288" frameHeight="282"/>
+	<SubTexture name="senpai regret port0000" x="1124" y="290" width="285" height="291" frameX="0" frameY="-2" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0001" x="1124" y="290" width="285" height="291" frameX="0" frameY="-2" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0002" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0003" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0004" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0005" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0006" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0007" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0008" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0009" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0010" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0011" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0012" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0013" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0014" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0015" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0016" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0017" x="1697" y="290" width="288" height="293"/>
+	<SubTexture name="senpai regret port0018" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai regret port0019" x="1409" y="290" width="288" height="292" frameX="0" frameY="-1" frameWidth="288" frameHeight="293"/>
+	<SubTexture name="senpai shocked port 0000" x="0" y="583" width="307" height="302" frameX="-28" frameY="0" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0001" x="0" y="583" width="307" height="302" frameX="-28" frameY="0" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0002" x="307" y="583" width="325" height="287" frameX="0" frameY="-15" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0003" x="307" y="583" width="325" height="287" frameX="0" frameY="-15" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0004" x="632" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0005" x="632" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0006" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0007" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0008" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0009" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0010" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0011" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0012" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0013" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0014" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0015" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0016" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0017" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0018" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai shocked port 0019" x="941" y="583" width="309" height="294" frameX="-24" frameY="-8" frameWidth="335" frameHeight="302"/>
+	<SubTexture name="senpai soft port 0000" x="1250" y="583" width="287" height="292" frameX="-2" frameY="0" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0001" x="1250" y="583" width="287" height="292" frameX="-2" frameY="0" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0002" x="1537" y="583" width="290" height="285" frameX="0" frameY="-7" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0003" x="1537" y="583" width="290" height="285" frameX="0" frameY="-7" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0004" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0005" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0006" x="288" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0007" x="1250" y="583" width="287" height="292" frameX="-2" frameY="0" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0008" x="1250" y="583" width="287" height="292" frameX="-2" frameY="0" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0009" x="1537" y="583" width="290" height="285" frameX="0" frameY="-7" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0010" x="1537" y="583" width="290" height="285" frameX="0" frameY="-7" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0011" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0012" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0013" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0014" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0015" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0016" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0017" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0018" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+	<SubTexture name="senpai soft port 0019" x="0" y="885" width="288" height="291" frameX="-1" frameY="-1" frameWidth="290" frameHeight="292"/>
+</TextureAtlas>

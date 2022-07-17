@@ -1,0 +1,55 @@
+:image:week10001,-120,-40,1408:no
+:lem:lemon happy port : see! I told you you had nothing to worry about!
+:lem:lemon happy port : You're the best singer I've ever heard!
+:sen:senpai regret port: I- I am?
+:sen:senpai normal port: uh I mean- 
+:sen:senpai happy port : Of course I am!
+:sen:senpai happy port : Only the best for my fair maiden.
+:endimage:putanythinghere:
+:image:week10002,-120,-40,1408:no
+:pump:pump normal port: What's this about a maiden?
+:lem:lemon regret port : oh shit-
+:endimage:putanythinghere:
+:image:week10003,-120,-40,1408:no
+:pump:pump shocked port: Lem! There you are! 
+:pump:pump mad port : I've been looking everywhere for ya!
+:lem:lemon sad port : Sorry Pump-
+:pump:pump sigh port : ya really got me worried there lil...
+:pump:pump content port : sis this time, Right?
+:lem:lemon happy port : yea!
+:pump:pump happy port : ok just making sure.
+:pump:pump normal port: Now, we should get back home. Skids been waiting and he's getting kinda- 
+:pump:pump shocked port: !
+:pump:pump content port : uh, 
+:pump:pump content port :excuse me lem but.
+:pump:pump normal port: Who is that?
+:lem:lemon regret port : OH UH well hes... hes uh. He-
+:sen:senpai cat port : Why, I'm this lovely lady's boyfriend, of course!
+:lem:lemon flustered port : !!!
+:pump:pump shocked port: wh-
+:pump:pump mad port : boyfriend?!
+:sen:senpai regret port: oh dear was i not supposed to say that out loud-
+:pump:pump sigh port : come on sis, i thought you knew better
+:pump:pump mad port : these pompous little shits will only hurt you, and i'll be damned if i let that happen
+:sen:senpai mad port : HEY!!! I REFUSE TO TAKE THIS SLANDER FROM A-
+:pump:pump normal port: can it, blondie.
+:sen:senpai cat port : Yes sir.
+:pump:pump sigh port : Sorry, it's just.
+:pump:pump normal port: what exactly do you see in him? The boys like 3 feet tall.
+:lem:lemon sad port : well Sen is very sweet
+:lem:lemon sad port : and smart... sometimes.
+:pump:pump normal port: i'm not buying it
+:lem:lemon sad port : uh..
+:lem:lemon happy port : oh! He's an amazing singer too!
+:sen:senpai regret port: ?!
+:pump:pump mad port : hmph yeah right.
+:pump:pump mad port :  i'm gonna have to hear it to believe it
+:endimage:putanythinghere:
+:image:week10004,-120,-40,1408:no
+:sen:senpai normal port: tch, is that a challenge?
+:pump:pump normal port: eh I just doubt someone as pampered as you would be up for this.
+:sen:senpai mad port : Oh yeah? I'll make you eat those words!
+:pump:pump content port : heh I'd like to see ya try.
+:sen:senpai normal port: you're on, tough guy!
+:pump:pump mad port : Ok then boy. show me what you got!
+:endimage:putanythinghere:

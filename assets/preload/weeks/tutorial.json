@@ -1,0 +1,25 @@
+{
+	"storyName": "Lemon friend",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"lem",
+		"sen",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"lem",
+			[
+				155,
+				140,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Flippin0"
+}

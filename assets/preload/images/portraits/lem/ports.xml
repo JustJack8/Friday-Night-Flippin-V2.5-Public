@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ports.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lemon awkward port 0000" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0001" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0002" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0003" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0004" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0005" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0006" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0007" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0008" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0009" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0010" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0011" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0012" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0013" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0014" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0015" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0016" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0017" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0018" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon awkward port 0019" x="0" y="0" width="232" height="274"/>
+	<SubTexture name="lemon blushy port0000" x="262" y="0" width="233" height="269" frameX="0" frameY="-6" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0001" x="262" y="0" width="233" height="269" frameX="0" frameY="-6" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0002" x="525" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0003" x="525" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0004" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0005" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0006" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0007" x="262" y="0" width="233" height="269" frameX="0" frameY="-6" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0008" x="262" y="0" width="233" height="269" frameX="0" frameY="-6" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0009" x="525" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0010" x="525" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0011" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0012" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0013" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0014" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0015" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0016" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0017" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0018" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0019" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon blushy port0020" x="788" y="0" width="233" height="275" frameX="-3" frameY="0" frameWidth="236" frameHeight="275"/>
+	<SubTexture name="lemon bruh port0000" x="1051" y="0" width="233" height="276" frameX="0" frameY="-8" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0001" x="1051" y="0" width="233" height="276" frameX="0" frameY="-8" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0002" x="1314" y="0" width="233" height="284"/>
+	<SubTexture name="lemon bruh port0003" x="1314" y="0" width="233" height="284"/>
+	<SubTexture name="lemon bruh port0004" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0005" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0006" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0007" x="0" y="314" width="233" height="276" frameX="0" frameY="-8" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0008" x="0" y="314" width="233" height="276" frameX="0" frameY="-8" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0009" x="263" y="314" width="233" height="284"/>
+	<SubTexture name="lemon bruh port0010" x="263" y="314" width="233" height="284"/>
+	<SubTexture name="lemon bruh port0011" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0012" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0013" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0014" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0015" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0016" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0017" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0018" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0019" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon bruh port0020" x="1577" y="0" width="232" height="284" frameX="-1" frameY="0" frameWidth="233" frameHeight="284"/>
+	<SubTexture name="lemon flustered port 0000" x="1706" y="314" width="233" height="295" frameX="-8" frameY="0" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0001" x="1706" y="314" width="233" height="295" frameX="-8" frameY="0" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0002" x="0" y="639" width="232" height="275" frameX="0" frameY="-20" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0003" x="0" y="639" width="232" height="275" frameX="0" frameY="-20" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0004" x="262" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0005" x="262" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0006" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0007" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0008" x="786" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0009" x="786" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0010" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0011" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0012" x="786" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0013" x="786" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0014" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0015" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0016" x="786" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0017" x="786" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0018" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon flustered port 0019" x="524" y="639" width="232" height="278" frameX="-2" frameY="-17" frameWidth="241" frameHeight="295"/>
+	<SubTexture name="lemon happy port 0000" x="1048" y="639" width="236" height="276" frameX="0" frameY="-10" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0001" x="1048" y="639" width="236" height="276" frameX="0" frameY="-10" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0002" x="1314" y="639" width="232" height="286" frameX="-6" frameY="0" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0003" x="1314" y="639" width="232" height="286" frameX="-6" frameY="0" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0004" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0005" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0006" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0007" x="1048" y="639" width="236" height="276" frameX="0" frameY="-10" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0008" x="1048" y="639" width="236" height="276" frameX="0" frameY="-10" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0009" x="1314" y="639" width="232" height="286" frameX="-6" frameY="0" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0010" x="1314" y="639" width="232" height="286" frameX="-6" frameY="0" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0011" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0012" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0013" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0014" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0015" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0016" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0017" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0018" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon happy port 0019" x="1576" y="639" width="233" height="283" frameX="-5" frameY="-3" frameWidth="238" frameHeight="286"/>
+	<SubTexture name="lemon mad port 0000" x="0" y="955" width="300" height="269" frameX="0" frameY="-20" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0001" x="0" y="955" width="300" height="269" frameX="0" frameY="-20" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0002" x="330" y="955" width="295" height="289" frameX="-5" frameY="0" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0003" x="330" y="955" width="295" height="289" frameX="-5" frameY="0" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0004" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0005" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0006" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0007" x="0" y="955" width="300" height="269" frameX="0" frameY="-20" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0008" x="0" y="955" width="300" height="269" frameX="0" frameY="-20" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0009" x="330" y="955" width="295" height="289" frameX="-5" frameY="0" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0010" x="330" y="955" width="295" height="289" frameX="-5" frameY="0" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0011" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0012" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0013" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0014" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0015" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0016" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0017" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0018" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon mad port 0019" x="655" y="955" width="300" height="283" frameX="-2" frameY="-6" frameWidth="302" frameHeight="289"/>
+	<SubTexture name="lemon normal port0000" x="985" y="955" width="232" height="292" frameX="-7" frameY="0" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0001" x="985" y="955" width="232" height="292" frameX="-7" frameY="0" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0002" x="1247" y="955" width="233" height="280" frameX="0" frameY="-12" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0003" x="1247" y="955" width="233" height="280" frameX="0" frameY="-12" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0004" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0005" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0006" x="1772" y="955" width="233" height="280" frameX="-1" frameY="-12" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0007" x="985" y="955" width="232" height="292" frameX="-7" frameY="0" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0008" x="985" y="955" width="232" height="292" frameX="-7" frameY="0" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0009" x="1247" y="955" width="233" height="280" frameX="0" frameY="-12" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0010" x="1247" y="955" width="233" height="280" frameX="0" frameY="-12" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0011" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0012" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0013" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0014" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0015" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0016" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0017" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0018" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon normal port0019" x="1510" y="955" width="232" height="279" frameX="0" frameY="-13" frameWidth="239" frameHeight="292"/>
+	<SubTexture name="lemon questioning port0000" x="526" y="314" width="230" height="269" frameX="-6" frameY="-4" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0001" x="526" y="314" width="230" height="269" frameX="-6" frameY="-4" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0002" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0003" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0004" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0005" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0006" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0007" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0008" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0009" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0010" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0011" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0012" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0013" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0014" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0015" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0016" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0017" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0018" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0019" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon questioning port0020" x="786" y="314" width="231" height="273" frameX="0" frameY="0" frameWidth="236" frameHeight="273"/>
+	<SubTexture name="lemon regret port 0000" x="0" y="1277" width="233" height="276" frameX="0" frameY="-3" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0001" x="0" y="1277" width="233" height="276" frameX="0" frameY="-3" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0002" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0003" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0004" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0005" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0006" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0007" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0008" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0009" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0010" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0011" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0012" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0013" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0014" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0015" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0016" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0017" x="525" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0018" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon regret port 0019" x="263" y="1277" width="232" height="279" frameX="-4" frameY="0" frameWidth="236" frameHeight="279"/>
+	<SubTexture name="lemon sad port 0000" x="787" y="1277" width="232" height="283" frameX="-6" frameY="0" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0001" x="787" y="1277" width="232" height="283" frameX="-6" frameY="0" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0002" x="1049" y="1277" width="232" height="277" frameX="0" frameY="-6" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0003" x="1049" y="1277" width="232" height="277" frameX="0" frameY="-6" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0004" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0005" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0006" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0007" x="787" y="1277" width="232" height="283" frameX="-6" frameY="0" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0008" x="787" y="1277" width="232" height="283" frameX="-6" frameY="0" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0009" x="1049" y="1277" width="232" height="277" frameX="0" frameY="-6" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0010" x="1049" y="1277" width="232" height="277" frameX="0" frameY="-6" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0011" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0012" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0013" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0014" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0015" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0016" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0017" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0018" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon sad port 0019" x="1311" y="1277" width="233" height="276" frameX="-1" frameY="-7" frameWidth="238" frameHeight="283"/>
+	<SubTexture name="lemon shrug port0000" x="1047" y="314" width="302" height="265" frameX="0" frameY="-4" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0001" x="1047" y="314" width="302" height="265" frameX="0" frameY="-4" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0002" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0003" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0004" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0005" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0006" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0007" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0008" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0009" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0010" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0011" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0012" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0013" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0014" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0015" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0016" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0017" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0018" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0019" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+	<SubTexture name="lemon shrug port0020" x="1379" y="314" width="297" height="269" frameX="-2" frameY="0" frameWidth="302" frameHeight="269"/>
+</TextureAtlas>

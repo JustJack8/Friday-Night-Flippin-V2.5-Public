@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voice actors.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="voicers0000" x="0" y="0" width="229" height="397" frameX="-166" frameY="-9" frameWidth="1282" frameHeight="427"/>
+	<SubTexture name="voicers0001" x="259" y="0" width="214" height="406" frameX="-373" frameY="0" frameWidth="1282" frameHeight="427"/>
+	<SubTexture name="voicers0002" x="503" y="0" width="179" height="237" frameX="0" frameY="-177" frameWidth="1282" frameHeight="427"/>
+	<SubTexture name="voicers0003" x="712" y="0" width="212" height="319" frameX="-1070" frameY="-93" frameWidth="1282" frameHeight="427"/>
+	<SubTexture name="voicers0004" x="0" y="436" width="185" height="340" frameX="-534" frameY="-82" frameWidth="1282" frameHeight="427"/>
+	<SubTexture name="voicers0005" x="215" y="436" width="337" height="310" frameX="-684" frameY="-100" frameWidth="1282" frameHeight="427"/>
+	<SubTexture name="voicers0006" x="582" y="436" width="174" height="267" frameX="-920" frameY="-160" frameWidth="1282" frameHeight="427"/>
+</TextureAtlas>

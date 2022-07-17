@@ -1,0 +1,31 @@
+:image:tutorial0001,-120,-40,1408:no
+:beta:beta fake smile port: {Keep it cool. It'll just be a week or two until Sen is back on his feet and then...}
+:beta:beta annoyed port: {Ugh. I still get shivers just thinking about her.}
+:beta:beta happy port: Hey!
+:endimage:putanythinghere:
+:image:tutorial0002,-120,-40,1408:no
+:lem:lemon regret port : Hm? Who's there?
+:lem:lemon normal port: Oh! hey! You're that uh... Sigma guy?
+:beta:beta happy port: No.
+:lem:lemon questioning port: Theta?
+:beta:beta default port: ...No.
+:lem:lemon happy port : Gamma!
+:beta:beta fake smile port: {Oh my God.}
+:beta:beta passive agressive port: It's BETA!! Bay-tuh. 
+:beta:beta passive agressive port: Haha, see, pretty simple to remember!
+:lem:lemon normal port: Oh! Okay then
+:lem:lemon happy port : Beeetaa hehe
+:beta:beta annoyed port: {Not even a minute and I already want to go home.}
+:lem:lemon normal port: So uh, what's up Beta boy? Why're you here?
+:beta:beta chill port: Wellll, Sen went ahead n got himself sick. 
+:beta:beta chill port: Aaaand he had the bright idea to have me to stand in for him for the day.
+:lem:lemon happy port : Aw, that's real sweet of you
+:beta:beta default port: I only came because he said he'll give me twenty dollars.
+:lem:lemon normal port: ah.
+:beta:beta default port: Look... I don't know what you do in your free time, but. 
+:beta:beta default port: Sen gave me this n said something about singing -I think- 
+:beta:beta default port: do you wanna do that or something?
+:lem:lemon happy port : O-Oh- yeah sure! Some practice wouldn't hurt! 
+:lem:lemon blushy port: Could always use it to impress Sen later~
+:beta:beta annoyed port: Euch.
+:endimage:putanythinghere:

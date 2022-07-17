@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="label charters.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="label charters0000" x="0" y="0" width="1277" height="224" frameX="0" frameY="-38" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0001" x="0" y="0" width="1277" height="224" frameX="0" frameY="-38" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0002" x="0" y="254" width="1277" height="244" frameX="0" frameY="-16" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0003" x="0" y="254" width="1277" height="244" frameX="0" frameY="-16" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0004" x="0" y="528" width="1277" height="239" frameX="0" frameY="-5" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0005" x="0" y="528" width="1277" height="239" frameX="0" frameY="-5" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0006" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0007" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0008" x="0" y="1075" width="1277" height="242" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0009" x="0" y="1075" width="1277" height="242" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0010" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0011" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0012" x="0" y="1075" width="1277" height="242" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0013" x="0" y="1075" width="1277" height="242" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0014" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0015" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0016" x="0" y="1075" width="1277" height="242" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0017" x="0" y="1075" width="1277" height="242" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0018" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+	<SubTexture name="label charters0019" x="0" y="797" width="1277" height="248" frameX="0" frameY="0" frameWidth="1277" frameHeight="262"/>
+</TextureAtlas>

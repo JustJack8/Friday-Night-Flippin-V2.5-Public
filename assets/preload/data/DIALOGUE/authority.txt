@@ -1,0 +1,79 @@
+:image:week20001,-120,-40,1408:no
+:lem:lemon happy port : Pretty night out. 
+:lem:lemon happy port : Wish more stars were out but the breeze is nice. Wouldn't you agree, Sen?
+:sen:senpai soft port : Hm...
+:lem:lemon normal port: Sen?
+:sen:senpai regret port: Huh? 
+:sen:senpai normal port: Oh, yeah yeah
+:sen:senpai normal port: It's just. lovely.
+:lem:lemon normal port: Something wrong?
+:sen:senpai normal port: Hm? No I'm perfectly fine, why do you ask?
+:lem:lemon normal port: Well you're uh.
+:endimage:putanythinghere:
+:image:week20002,-120,-40,1408:no
+:lem:lemon sad port : You're doing that hand thing again. 
+:lem:lemon sad port : You're nervous, aren't you?
+:sen:senpai happy port : Aha, you got me
+:lem:lemon sad port : Is it because of what happened last week?
+:lem:lemon sad port : You can dip if you want, I'd understand.
+:sen:senpai mad port : N-no! Don't say that kinda stuff!
+:sen:senpai normal port: We just gotta figure this out, alright?
+:sen:senpai normal port: How do I get your brothers to like me?
+:lem:lemon sad port : Hm I'm not sure.
+:lem:lemon happy port : You're pretty cute n all and I'm certain that almost every other person would love you
+:lem:lemon normal port: But my brothers aren't like "every other person". 
+:lem:lemon sad port : They're not too fond of nice and pretty uh. "sparkly" things.
+:sen:senpai normal port: Well then what do they like?
+:sen:senpai normal port: A little change never hurt anybody.
+:lem:lemon sad port : Hm...
+:lem:lemon happy port : Oh! They like spooky things!
+:lem:lemon normal port: Like graveyards n demons and all that.
+:sen:senpai normal port: Oh that... makes sense actually.
+:sen:senpai regret port:I feel rather foolish for not knowing already.
+:sen:senpai mad port : agh but how do I be "spooky"? 
+:lem:lemon sad port : hmm
+:lem:lemon normal port: Maybe we need to go somewhere scary? Like...
+:endimage:putanythinghere:
+:image:week20003,-120,-40,1408:no
+:sen:senpai happy port : like that scary looking house over there!
+:lem:lemon normal port: Sen, that's a mansion.
+:lem:lemon normal port: I think there's people living in there
+:sen:senpai normal port: eh oh well I'm sure they won't mind
+:lem:lemon normal port: Sen you're suggesting that we break into a house.
+:sen:senpai happy port : yes.
+:lem:lemon normal port: That probably belongs strangers we have never even met
+:sen:senpai happy port : yes.
+:lem:lemon normal port: Sen That's...
+:lem:lemon happy port : the greatest idea you've ever had!
+:sen:senpai happy port : Right?
+:endimage:putanythinghere:
+:image:week20004,-120,-40,1408:no
+:sen:senpai happy port : Well, off we go!
+:sen:senpai normal port: (I'm not grabbing you too tightly am I?)
+:lem:lemon normal port: (not tight enough...)
+:sen:senpai normal port:(haha what.)
+:lem:lemon normal port: (nothing.)
+:endimage:putanythinghere:
+:image:black,-120,-40,1408:no
+:endimage:putanythinghere:
+:sen:senpai normal port: Hough... I'd hate to be a burden, but is it necessary to keep bringing that stereo everywhere?
+:lem:lemon normal port: Why? What's wrong with it?
+:sen:senpai regret port: They're so... heavy.
+:dearie:dearie default port: HEY!
+:sen:senpai shocked port : eep!
+:sen:senpai normal port: Oh. Haha, it's just a kid.
+:mearie:mearie default port :Dear? What's goin on? Are you yelling at a racoon again?
+:sen:senpai shocked port : Dear God they're multiplying.
+:mearie:mearie default port :Oh! Are these new friends?
+:mearie:mearie default port :Hiya! I'm Mearie. It's nice to meet you two!
+:dearie:dearie default port: MEAR!! DON'T BE NICE TO THESE TWITS!
+:mearie:mearie default port :hehe! Okie doke!
+:dearie:dearie default port: THE FUCK ARE YOU ASSHOLES DOING IN MY HOUSE?
+:sen:senpai shocked port : woah this one got a mouth on him.
+:dearie:dearie default port: ANSWER ME MORONS!
+:lem:lemon happy port : I'm teaching my boyfriend how to be spooky so my brothers don't annihilate him.
+:dearie:dearie disgust port: ...
+:dearie:dearie disgust port: Thats fucking stupid. Piss off.
+:sen:senpai happy port : Sorry kid but not until I learn how to be spooky.
+:dearie:dearie default port: Oh you want spooky, yeah?
+:dearie:dearie malicous port: Well I'll give ya spooky.

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="label vas.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="label vas 0000" x="0" y="0" width="1274" height="250" frameX="0" frameY="-22" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0001" x="0" y="0" width="1274" height="250" frameX="0" frameY="-22" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0002" x="0" y="280" width="1274" height="263" frameX="0" frameY="-6" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0003" x="0" y="280" width="1274" height="263" frameX="0" frameY="-6" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0004" x="0" y="573" width="1274" height="268" frameX="0" frameY="-1" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0005" x="0" y="573" width="1274" height="268" frameX="0" frameY="-1" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0006" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0007" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0008" x="0" y="573" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0009" x="0" y="573" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0010" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0011" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0012" x="0" y="573" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0013" x="0" y="573" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0014" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0015" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0016" x="0" y="573" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0017" x="0" y="573" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0018" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+	<SubTexture name="label vas 0019" x="0" y="871" width="1274" height="268" frameX="0" frameY="0" frameWidth="1274" frameHeight="272"/>
+</TextureAtlas>

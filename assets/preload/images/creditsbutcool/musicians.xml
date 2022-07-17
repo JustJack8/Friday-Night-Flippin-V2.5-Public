@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="musicians.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="musicians0000" x="0" y="0" width="226" height="317" frameX="-153" frameY="-281" frameWidth="1332" frameHeight="624"/>
+	<SubTexture name="musicians0001" x="256" y="0" width="238" height="220" frameX="0" frameY="-378" frameWidth="1332" frameHeight="624"/>
+	<SubTexture name="musicians0002" x="524" y="0" width="240" height="425" frameX="-365" frameY="-173" frameWidth="1332" frameHeight="624"/>
+	<SubTexture name="musicians0003" x="0" y="455" width="337" height="400" frameX="-593" frameY="-208" frameWidth="1332" frameHeight="624"/>
+	<SubTexture name="musicians0004" x="367" y="455" width="189" height="253" frameX="-899" frameY="0" frameWidth="1332" frameHeight="624"/>
+	<SubTexture name="musicians0005" x="586" y="455" width="217" height="370" frameX="-1115" frameY="-254" frameWidth="1332" frameHeight="624"/>
+</TextureAtlas>

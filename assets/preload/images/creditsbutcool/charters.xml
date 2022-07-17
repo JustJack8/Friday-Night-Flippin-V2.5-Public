@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charters.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chart farr0000" x="0" y="0" width="282" height="381" frameX="0" frameY="-140" frameWidth="1330" frameHeight="531"/>
+	<SubTexture name="chart farr0001" x="312" y="0" width="414" height="509" frameX="-599" frameY="0" frameWidth="1330" frameHeight="531"/>
+	<SubTexture name="chart farr0002" x="756" y="0" width="317" height="451" frameX="-296" frameY="-52" frameWidth="1330" frameHeight="531"/>
+	<SubTexture name="chart farr0003" x="1103" y="0" width="430" height="497" frameX="-900" frameY="-34" frameWidth="1330" frameHeight="531"/>
+</TextureAtlas>

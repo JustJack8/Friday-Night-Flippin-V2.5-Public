@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "classic HEY",
+	"idle_anim": "classic0",
+	"position": [
+		-443,
+		-211
+	],
+	"scale": 0.9,
+	"image": "flippin_campaign_menu_UI_assets"
+}
